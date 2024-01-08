@@ -1,6 +1,4 @@
-<!doctype html>
-<html>
-<head>
+
  body{
  font-size:16px ;
  color: #fff;
